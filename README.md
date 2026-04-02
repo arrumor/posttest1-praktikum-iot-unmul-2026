@@ -16,3 +16,6 @@ Pada Posttest kali ini, kami mencoba untuk membuat perangkat IOT untuk mendeteks
 - Kabel Jumper
 - LED
 - Sensor MQ
+
+## Board Schematic
+<img width="961" height="814" alt="Screenshot 2026-04-02 225124" src="https://github.com/user-attachments/assets/17908701-679e-4d0a-978e-2b43fd796803" />
